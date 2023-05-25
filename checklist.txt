@@ -1,0 +1,10 @@
+Checklist attributes
+1. Step number
+2. Step title
+3. Environment
+4. Precondition
+5. Steps to reproduce
+6. Expected result
+7. Actual result
+8. Status
+9. Attachments
